@@ -2,7 +2,7 @@
 
 def main():
     print("Hello, world!")
-    print("Welcome to DEVASC!")
+    print("Welcome to devASC!")
 
 if __name__ == "__main__":
     main()
